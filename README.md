@@ -32,7 +32,7 @@ Following assumptions were used during the simulation -
   - Makefile - Used for running the program
 
 - Tester 
-  - Contains files which test the database system
+  - Contains files which test the simulation
 
 > Usage - make (while using the makefile one should ensure that the path to the tester files is also provided as tester files are not in the same folder)
 
