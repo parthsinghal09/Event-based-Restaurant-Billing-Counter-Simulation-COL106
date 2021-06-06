@@ -1,6 +1,6 @@
 # Event-based-Restaurant-Billing-Counter-Simulation
 
-The program performs an event based simulation of the billing counter environment of a burger restaurant with K (non-zero) number of billing counters and the size of the griddle being an non-zero integer M. The following problem is being tackled thorugh this simulation - 
+The program performs an event based simulation of the billing counter environment of a burger restaurant with K (non-zero) number of billing counters and the size of the griddle being a non-zero integer M. The following problem is being tackled thorugh this simulation - 
 
 _"You are the owner of a big and famous burger restaurant called McMohans Burgers. The restaurant has K billing counters numbered 1 to K. Since your restaurant is a hit amongst youngsters, you get a lot of customers leading to long queues in billing as well as food preparation. You would like to know some statistics like average waiting time, average queue length etc., so that proper steps to improve customer convenience can be taken. You want to do this by running a simulation, as it is cost/time efficient and allows for a range of experimentation on the assumed model."_
 
