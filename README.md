@@ -1,4 +1,4 @@
-# Event-based-Restaurant-Billing-Counter-Simulation
+# Event-based-Simulation-Restaurant-Billing-Counter
 
 The program performs an event based simulation of the billing counter environment of a burger restaurant with K (non-zero) number of billing counters and the size of the griddle being a non-zero integer M. The following problem is being tackled thorugh this simulation - 
 
